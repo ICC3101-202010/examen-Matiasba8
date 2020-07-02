@@ -1,0 +1,7 @@
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\bin\Debug\Matías_Bustos[Examen].exe.config
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\bin\Debug\Matías_Bustos[Examen].exe
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\bin\Debug\Matías_Bustos[Examen].pdb
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\obj\Debug\Matías_Bustos[Examen].csprojAssemblyReference.cache
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\obj\Debug\Matías_Bustos[Examen].csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\obj\Debug\Matías_Bustos[Examen].exe
+C:\Users\SEBASTIÁN\Desktop\Matías_Bustos[Examen]\Matías_Bustos[Examen]\obj\Debug\Matías_Bustos[Examen].pdb
